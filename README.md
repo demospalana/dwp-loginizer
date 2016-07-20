@@ -2,12 +2,19 @@
 
 Contributors: demospalana
 Tags: login: custom login, dwp loginizer, loginizer, branding
+
 Donate Link: https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=U20uFP6rSAt4pTEZY8WzOt83irUZH5uOV81pmeeI9VgAFTqbhpu1UqvpS1O&dispatch=5885d80a13c0db1f8e263663d3faee8d64813b57e559a2578463e58274899069
+
 Licence: GPL version 2 or later 
+
 Licence URI: http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+
 Requires at least: 4.0
+
 Tested up to: 4.5
+
 Stable tag: trunk
+
 
 ==Short Description==
 Customize your wordpress default login page, change logo, color and more.
