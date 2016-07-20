@@ -17,36 +17,60 @@ Stable tag: trunk
 
 
 ==Short Description==
+
 Customize your wordpress default login page, change logo, color and more.
 
+
 ==Description==
+
 DWP Loginizer allows you to customize the default wordpress login page.
 
 **DWP Loginizer Features**
 
 *Change Background color.
+
 *Set Image as Background
+
 *Change Text color
+
 *Hide Logo / Change logo
+
 *Change Form Background Color
+
 *Set Form Background Color Opacity / Transparency
+
 *Set Image as Form Background
+
 *Change Button Text Color, Background Color, Border Color
+
 *Add your custom css
 
+
 ** COMING SOON**
+
 *Login Redirect
+
 *Create your own login page with form builder
 
+
 **SUGGESTIONS**
+
 If you have ideas or you want to add a new feature kindly contact me @ demospalana@yahoo.com
 
 ==Installation==
+
 1. Upload the plugin to the `/wp-content/plugins/` directory.
+2. 
 2. Activate the plugin through the 'Plugins' menu in WordPress.
+3. 
 3. Go to Settings > DWP Loginizer and edit your settings.
+4. 
 4. Click the 'Save Changes' button.
+5. 
 
 == Screenshots ==
+
 1. Design Settings Screen
+2. 
 2. Custom CSS Screen
+3. 
